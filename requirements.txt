@@ -10,3 +10,4 @@ pudb==2013.5.1
 pyflakes==0.7.3
 urwid==1.1.2
 wsgiref==0.1.2
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
